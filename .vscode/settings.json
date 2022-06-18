@@ -1,0 +1,7 @@
+{
+  "discord.swapBigAndSmallImage": false,
+  "discord.removeLowerDetails": false,
+  "discord.suppressNotifications": true,
+  "discord.lowerDetailsEditing": "{workspace}",
+  "discord.removeRemoteRepository": false
+}
